@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: swinger-1.0.0-BETA.jar jnativehook-2.1.0.jar
+Main-Class: fr.enoviah.crossmouse.CrossMouse
+
